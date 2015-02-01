@@ -47,11 +47,6 @@ body {
   background: #f9b8bb;
   text-shadow: none; }
 
-/* move header up */
-.reveal .slides {
-    margin-top: -380px;
-}
-
 /*********************************************
  * HEADERS
  *********************************************/
