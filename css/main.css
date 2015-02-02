@@ -5,22 +5,21 @@
    ========================================================================== */
 
 .gdi-main .gdi-banner {
-    margin: 10px 10px 0px 10px;
-    border-radius: 20px;
-    background-color: #f0d9d0;
+
+    border-radius: 10px;
+    background-color: #f7d7d9;
 }
 
 .gdi-main .gdi-logo {
-    border-radius: 20px;
+    border-radius: 10px;
     margin: 10px 0px;
 }
 
 .gdi-pad-col {
     background-color: #f0e2e9;
-    border-radius: 20px;
-    margin-right: 20px;
+    border-radius: 10px;
+    margin: 10px;
     padding: 10px 20px;
-    margin-top: 10px;
 }
 
 .gdi-mission {
@@ -31,6 +30,23 @@
     height: 30px;
     margin-right: 10px;
 }
+
+.gdi-home {
+    margin-top: 20px;
+}
+
+.gdi-home .gdi-pad-col {
+    background-color: #c3e285;
+}
+
+.gdi-classes .gdi-pad-col {
+    background-color: #c9e2e2;
+}
+
+.gdi-links .gdi-pad-col {
+    background-color: #F7E89B;
+}
+
 
 
 
