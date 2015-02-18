@@ -8,11 +8,14 @@
 
     border-radius: 10px;
     background-color: #f7d7d9;
+    box-shadow: 0px 0px 20px #cccccc;
+    border: solid 2px #cccccc;
 }
 
 .gdi-main .gdi-logo {
     border-radius: 10px;
     margin: 10px 0px;
+    box-shadow: 0 0 10px #bbbbbb;
 }
 
 .gdi-pad-col {
@@ -35,6 +38,11 @@
     margin-top: 20px;
 }
 
+.gdi-pad-col, .gdi {
+    box-shadow: 0px 0px 20px #cccccc;
+    border: solid 2px #cccccc;
+}
+
 .gdi-home .gdi-pad-col {
     background-color: #c3e2a5;
 }
@@ -46,6 +54,7 @@
 .gdi-links .gdi-pad-col {
     background-color: #F7E8BB;
 }
+
 
 
 
